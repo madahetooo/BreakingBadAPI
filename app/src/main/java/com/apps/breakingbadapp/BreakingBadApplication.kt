@@ -1,5 +1,4 @@
 package com.apps.fullandroidcourseclassa.breakingbadapi
-
 import android.app.Application
 import com.apps.fullandroidcourseclassa.breakingbadapi.db.Db
 import com.apps.fullandroidcourseclassa.breakingbadapi.repository.CharacterRepository
